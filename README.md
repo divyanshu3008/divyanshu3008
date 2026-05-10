@@ -1,8 +1,9 @@
-💻 B.Tech IT Student
-⚡ Building projects with Python & Flask
-📊 Interested in Data Analytics and Machine Learning
-🌱 Learning something new every day
-📩 Mail: [divsnj@gmail.com](mailto:divsnj@gmail.com)
+B.Tech IT Student<br>
+Building projects with Python & Flask<br>
+Interested in Data Analytics and Machine Learning<br>
+Learning something new every day<br><br>
+Mail: [divsnj@gmail.com](mailto:divsnj@gmail.com)
+
 
 
 <!---
